@@ -1,0 +1,10 @@
+#!/bin/sh
+
+for i in src/*.svg; do
+	nome=`basename $i .svg`
+	inkscape -z -e layout/$nome.png -w 96 -h 96 $i
+done
+
+if [ -x /usr/bin/optipng ]; then
+	optipng -q -o9 layout/*.png
+fi

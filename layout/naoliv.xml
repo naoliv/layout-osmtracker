@@ -1,0 +1,68 @@
+<layouts>
+	<layout name="root">
+		<row>
+			<button type="page" label="Estrada" icon="estrada.png" targetlayout="estrada" />
+			<button type="page" label="Parque/trilha" icon="parque.png" targetlayout="parque" />
+		</row>
+	</layout>
+
+	<layout name="estrada">
+		<row>
+			<button type="voicerec" label="teste" icon="voice_32x32" />
+			<button type="picture" icon="camera_32x32" />
+			<button type="textnote" icon="text_32x32" />
+		</row>
+		<row>
+			<button type="tag" label="SOS" icon="sos.png" />
+			<button type="tag" label="Radar" icon="radar.png" />
+			<button type="tag" label="SAU" icon="sau.png" />
+		</row>
+		<row>
+			<button type="tag" label="Services" icon="services.png" />
+			<button type="tag" label="Posto" icon="posto.png" />
+			<button type="tag" label="Cruz" icon="cruz.png" />
+		</row>
+		<row>
+			<button type="tag" label="Restaurante" icon="restaurante.png" />
+			<button type="tag" label="Lanche" icon="lanchonete.png" />
+			<button type="tag" label="shop=farm" icon="shop_farm.png" />
+		</row>
+		<row>
+			<button type="tag" label="Pedágio" icon="pedagio.png" />
+			<button type="tag" label="Motel" icon="motel.png" />
+			<button type="tag" label="Fronteira" icon="limite.png" />
+		</row>
+	</layout>
+	<layout name="parque">
+		<row>
+			<button type="voicerec" icon="voice_32x32" />
+			<button type="picture" icon="camera_32x32" />
+			<button type="textnote" icon="text_32x32" />
+		</row>
+		<row>
+			<button type="tag" label="Banco" icon="banco.png" />
+			<button type="tag" label="Água" icon="agua.png" />
+			<button type="tag" label="Lixeira" icon="lixo.png" />
+		</row>
+		<row>
+			<button type="tag" label="Reciclagem" icon="reciclagem.png" />
+			<button type="tag" label="Picnic" icon="picnic.png" />
+			<button type="tag" label="Pitch" icon="pitch.png" />
+		</row>
+		<row>
+			<button type="tag" label="Banheiro" icon="banheiro.png" />
+			<button type="tag" label="Abrigo" icon="abrigo.png" />
+			<button type="tag" label="Viewpoint" icon="viewpoint.png" />
+		</row>
+		<row>
+			<button type="tag" label="Telefone" icon="telefone.png" />
+			<button type="tag" label="Parquinho" icon="parquinho.png" />
+			<button type="tag" label="Churrasco" icon="churrasco.png" />
+		</row>
+		<row>
+			<button type="tag" label="Fonte" icon="fonte.png" />
+			<button type="tag" label="Lanche" icon="lanchonete.png" />
+			<button type="tag" label="ATM" icon="caixa.png" />
+		</row>
+	</layout>
+</layouts>
