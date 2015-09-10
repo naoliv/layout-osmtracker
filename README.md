@@ -11,4 +11,4 @@ Licença dos ícones originais em http://osm-icons.org/wiki/Icons
 
 ## Instalação
 
-Copiar os arquivos de [layout](/layout) para dentro do diretório `layout` do osmtracker no celular.
+Copiar os arquivos de [layout](/layout) para dentro do diretório `layouts` do osmtracker no celular.
