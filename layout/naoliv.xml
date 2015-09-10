@@ -8,7 +8,7 @@
 
 	<layout name="estrada">
 		<row>
-			<button type="voicerec" label="teste" icon="voice_32x32" />
+			<button type="voicerec" icon="voice_32x32" />
 			<button type="picture" icon="camera_32x32" />
 			<button type="textnote" icon="text_32x32" />
 		</row>
