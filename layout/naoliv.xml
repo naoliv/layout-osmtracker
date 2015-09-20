@@ -3,6 +3,7 @@
 		<row>
 			<button type="page" label="Estrada" icon="estrada.png" targetlayout="estrada" />
 			<button type="page" label="Parque/trilha" icon="parque.png" targetlayout="parque" />
+			<button type="page" label="Praça" icon="praca.png" targetlayout="praça" />
 		</row>
 	</layout>
 
@@ -63,6 +64,38 @@
 			<button type="tag" label="Fonte" icon="fonte.png" />
 			<button type="tag" label="Lanche" icon="lanchonete.png" />
 			<button type="tag" label="ATM" icon="caixa.png" />
+		</row>
+	</layout>
+	<layout name="praça">
+		<row>
+			<button type="voicerec" icon="voice_32x32" />
+			<button type="picture" icon="camera_32x32" />
+			<button type="textnote" icon="text_32x32" />
+		</row>
+		<row>
+			<button type="tag" label="Telefone" icon="telefone.png" />
+			<button type="tag" label="Banco" icon="banco.png" />
+			<button type="tag" label="Água" icon="agua.png" />
+		</row>
+		<row>
+			<button type="tag" label="Obra de arte" icon="artwork.png" />
+			<button type="tag" label="Memorial" icon="memorial.png" />
+			<button type="tag" label="Fonte" icon="fonte.png" />
+		</row>
+		<row>
+			<button type="tag" label="Parquinho" icon="parquinho.png" />
+			<button type="tag" label="Fitness" icon="fitness.png" />
+			<button type="tag" label="Pitch" icon="pitch.png" />
+		</row>
+		<row>
+			<button type="tag" label="Reciclagem" icon="reciclagem.png" />
+			<button type="tag" label="Lixeira" icon="lixo.png" />
+			<button type="tag" label="Hidrante" icon="hidrante.png" />
+		</row>
+		<row>
+			<button type="tag" label="Ônibus" icon="onibus.png" />
+			<button type="tag" label="Táxi" icon="taxi.png" />
+			<button type="tag" label="Banca" icon="banca.png" />
 		</row>
 	</layout>
 </layouts>

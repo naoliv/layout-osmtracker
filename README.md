@@ -2,9 +2,18 @@
 
 Layout personalizado para [osmtracker](https://github.com/nguillaumin/osmtracker-android/wiki).
 
-Contém grupo para rodovias e parques.
+Contém grupo para rodovias:
 
-![Rodovias](http://i.imgur.com/sqNy4XN.png) ![Parques](http://i.imgur.com/neQ0log.png)
+![Rodovias](http://i.imgur.com/2lCrdsj.png)
+
+
+Parques/trilhas:
+
+![Parques/trilhas](http://i.imgur.com/eRLvVyA.png)
+
+Praças:
+
+![Praças](http://i.imgur.com/hBFJL1y.png)
 
 Ícones de http://osm-icons.org  
 Licença dos ícones originais em http://osm-icons.org/wiki/Icons
