@@ -4,7 +4,8 @@ Layout personalizado para [osmtracker](https://github.com/nguillaumin/osmtracker
 
 Contém grupo para rodovias:
 
-![Rodovias](http://i.imgur.com/2lCrdsj.png)
+![Rodovias](http://i.imgur.com/rX80Zhh.png)
+![Placas](http://i.imgur.com/FWLj2tF.png)
 
 
 Parques/trilhas:

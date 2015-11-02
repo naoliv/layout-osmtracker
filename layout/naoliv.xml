@@ -1,6 +1,11 @@
 <layouts>
 	<layout name="root">
 		<row>
+			<button type="voicerec" icon="voice_32x32" />
+			<button type="picture" icon="camera_32x32" />
+			<button type="textnote" icon="text_32x32" />
+		</row>
+		<row>
 			<button type="page" label="Estrada" icon="estrada.png" targetlayout="estrada" />
 			<button type="page" label="Parque/trilha" icon="parque.png" targetlayout="parque" />
 			<button type="page" label="Praça" icon="praca.png" targetlayout="praça" />
@@ -10,8 +15,8 @@
 	<layout name="estrada">
 		<row>
 			<button type="voicerec" icon="voice_32x32" />
-			<button type="picture" icon="camera_32x32" />
 			<button type="textnote" icon="text_32x32" />
+			<button type="page" label="Placas" icon="100.png" targetlayout="placas" />
 		</row>
 		<row>
 			<button type="tag" label="SOS" icon="sos.png" />
@@ -32,6 +37,33 @@
 			<button type="tag" label="Pedágio" icon="pedagio.png" />
 			<button type="tag" label="Motel" icon="motel.png" />
 			<button type="tag" label="Fronteira" icon="limite.png" />
+		</row>
+	</layout>
+	<layout name="placas">
+		<row>
+			<button type="page" label="Voltar" icon="estrada.png" targetlayout="estrada" />
+			<button type="tag" label="lanes +1" icon="inicio-faixa.png" />
+			<button type="tag" label="lanes -1" icon="fim-faixa.png" />
+		</row>
+		<row>
+			<button type="tag" label="120/90" icon="120-90.png" />
+			<button type="tag" label="110/90" icon="110-90.png" />
+			<button type="tag" label="100/80" icon="100-80.png" />
+		</row>
+		<row>
+			<button type="tag" label="120" icon="120.png" />
+			<button type="tag" label="110" icon="110.png" />
+			<button type="tag" label="100" icon="100.png" />
+		</row>
+		<row>
+			<button type="tag" label="90" icon="90.png" />
+			<button type="tag" label="80" icon="80.png" />
+			<button type="tag" label="70" icon="70.png" />
+		</row>
+		<row>
+			<button type="tag" label="60" icon="60.png" />
+			<button type="tag" label="50" icon="50.png" />
+			<button type="tag" label="40" icon="40.png" />
 		</row>
 	</layout>
 	<layout name="parque">
