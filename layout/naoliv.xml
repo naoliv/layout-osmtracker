@@ -46,24 +46,24 @@
 			<button type="tag" label="lanes -1" icon="fim-faixa.png" />
 		</row>
 		<row>
-			<button type="tag" label="120/90" icon="120-90.png" />
-			<button type="tag" label="110/90" icon="110-90.png" />
-			<button type="tag" label="100/80" icon="100-80.png" />
+			<button type="tag" label="120/90 km/h" icon="120-90.png" />
+			<button type="tag" label="110/90 km/h" icon="110-90.png" />
+			<button type="tag" label="100/90 km/h" icon="100-90.png" />
 		</row>
 		<row>
-			<button type="tag" label="120" icon="120.png" />
-			<button type="tag" label="110" icon="110.png" />
-			<button type="tag" label="100" icon="100.png" />
+			<button type="tag" label="100/80 km/h" icon="100-80.png" />
+			<button type="tag" label="90/70 km/h" icon="90-70.png" />
+			<button type="tag" label="80/60 km/h" icon="80-60.png" />
 		</row>
 		<row>
-			<button type="tag" label="90" icon="90.png" />
-			<button type="tag" label="80" icon="80.png" />
-			<button type="tag" label="70" icon="70.png" />
+			<button type="tag" label="90 km/h" icon="90.png" />
+			<button type="tag" label="80 km/h" icon="80.png" />
+			<button type="tag" label="70 km/h" icon="70.png" />
 		</row>
 		<row>
-			<button type="tag" label="60" icon="60.png" />
-			<button type="tag" label="50" icon="50.png" />
-			<button type="tag" label="40" icon="40.png" />
+			<button type="tag" label="60 km/h" icon="60.png" />
+			<button type="tag" label="50 km/h" icon="50.png" />
+			<button type="tag" label="40 km/h" icon="40.png" />
 		</row>
 	</layout>
 	<layout name="parque">
