@@ -41,7 +41,7 @@
 	</layout>
 	<layout name="placas">
 		<row>
-			<button type="page" label="Voltar" icon="estrada.png" targetlayout="estrada" />
+			<button type="tag" label="Lombada" icon="lombada.png" />
 			<button type="tag" label="lanes +1" icon="inicio-faixa.png" />
 			<button type="tag" label="lanes -1" icon="fim-faixa.png" />
 		</row>
